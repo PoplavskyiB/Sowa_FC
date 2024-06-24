@@ -1,5 +1,6 @@
 # SOWA_FC
-An open-source F405 flight controller.
+The main goal of this project is to create a free open-source flight controller you can use for your personal needs.
+
 
 Features:
 - STM32F405
@@ -36,4 +37,14 @@ For this moment, it is only available to flash the software to the board as an u
 4) Click the "Flash Firmware" button
 5) Once the firmware flashed successfully, press the "Connect" button and go to the "CLI" tab
 6) Press "Load from file" button and select .config file
+7) Load the commands to the CLI and reconnect the FC
+
+# Schematics
+This board is designed in the EasyEDA PCB creating tool. Here is the link where you can find all the schemas.
+![Schematic_SOWA-F4_2024-06-24](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/1b62517a-4905-46a9-8bb6-6d8feb7ada3f)
+
+
+# My contacts
+
+If you would like to contact me for any reason, feel free to write me either via E-Mail at poplavskiyb@gmail.com or via Telegram to @Poplavskyib (https://t.me/poplavskyib)
 
