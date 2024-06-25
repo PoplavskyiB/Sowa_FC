@@ -38,7 +38,7 @@ For this moment, it is only available to flash the software to the board as an u
 7) Load the commands to the CLI and reconnect the FC
 
 # Schematics
-This board is designed in the EasyEDA PCB creating tool. Here is the link where you can find all the schemas.
+This board is designed in the EasyEDA PCB creating tool. Here is the link where you can find all the schemas and PCB designs: https://easyeda.com/editor#project_id=f8ffbb6a306b4466b63a5c79629c3a20
 ![Schematic_SOWA-F4_2024-06-24](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/1b62517a-4905-46a9-8bb6-6d8feb7ada3f)
 
 
