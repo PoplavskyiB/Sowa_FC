@@ -29,7 +29,7 @@ Drill distance: 30,5 mm (center to center)
 
 # Software flashing
 
-For this moment, it is only available to flash the software to the board as an unofficial Betaflight target.
+At this moment, it is only available to flash the software to the board as an unofficial Betaflight target.
 1) Make sure you have installed all the needed drivers (Zadig, ImpulseRS)
 2) Connect the board to your PC via TYPE-C cable while holding the "BOOT" button. After that, a device in DFU mode should be detected
 3) Go to "Firmware Flasher" tab and load the .hex file by clicking on the "Load Firmware [Lokal]" tab
