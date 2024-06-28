@@ -21,11 +21,13 @@ Drill diameter: 4 mm
 
 Drill distance: 30,5 mm (center to center)
 
-![Pinout](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/e67117a9-e37e-4fd5-865a-a49e9ddd90c3)
+![Pinout](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/91d8923b-ebce-4787-a008-98ea8e1d848c)
+
 
 # Wiring diagram:
 ![Wiring](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/2423a88a-3354-4313-ac50-48c41776823a)
-![WiringGPS](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/1aa1573c-b4a7-4d55-b7f9-d5b83f3ceccf)
+![GPS](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/ae6777eb-1598-49d7-9603-56586d0cb7d1)
+
 
 # Software flashing
 
