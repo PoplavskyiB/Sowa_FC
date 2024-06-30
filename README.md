@@ -12,7 +12,7 @@ Features:
 - SCL and SDA pins for GPS
 - 6 UARTs
 - 8 motor/servo outputs
-- RX2 inverter (for SBUS)
+- RX4 inverter (for SBUS)
 - SWD and SWC pins for direkt programming via bootloader (ex. ST-Link)
 
 Size: 40/40/1,6 mm
