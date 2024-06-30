@@ -20,14 +20,11 @@ Size: 40/40/1,6 mm
 Drill diameter: 4 mm
 
 Drill distance: 30,5 mm (center to center)
-
-![Pinout](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/91d8923b-ebce-4787-a008-98ea8e1d848c)
-
+![Pinout](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/512cce53-6060-4659-90b6-d78159e6c609)
 
 # Wiring diagram:
-![Wiring](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/2423a88a-3354-4313-ac50-48c41776823a)
-![GPS](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/ae6777eb-1598-49d7-9603-56586d0cb7d1)
-
+![Wiring](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/513a9a46-8e1d-4fa3-bf47-a577ab3b860f)
+![Wiring_Bottom](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/1db0d280-d29a-41b1-86e8-74cb57edebc9)
 
 # Software flashing
 
@@ -42,7 +39,8 @@ At this moment, it is only available to flash the software to the board as an un
 
 # Schematics
 This board is designed in the EasyEDA PCB creating tool. Here is the link where you can find all the schemas and PCB designs: https://easyeda.com/editor#project_id=f8ffbb6a306b4466b63a5c79629c3a20
-![Schematic_SOWA-F4_2024-06-24](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/1b62517a-4905-46a9-8bb6-6d8feb7ada3f)
+![Scheme_SOWA_FC](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/da704378-ec41-419f-8680-25431ffe545d)
+
 
 
 # My contacts
