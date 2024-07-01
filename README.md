@@ -1,5 +1,6 @@
 # SOWA_FC
 The main goal of this project is to create a free open-source flight controller you can use for your personal needs.
+Current status: everything works fine, no problems found.
 
 Features:
 - STM32F405 microcontroller
