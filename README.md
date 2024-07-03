@@ -21,7 +21,7 @@ Size: 40/40/1,6 mm
 Drill diameter: 4 mm
 
 Drill distance: 30,5 mm (center to center)
-![Pinout](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/512cce53-6060-4659-90b6-d78159e6c609)
+[<img src="https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/512cce53-6060-4659-90b6-d78159e6c609" width="800">]
 
 # Wiring diagram:
 ![Wiring](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/513a9a46-8e1d-4fa3-bf47-a577ab3b860f)
