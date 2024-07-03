@@ -42,9 +42,15 @@ At this moment, it is only available to flash the software to the board as an un
 This board is designed in the EasyEDA PCB creating tool. Here is the link where you can find all the schemas and PCB designs: https://easyeda.com/editor#project_id=f8ffbb6a306b4466b63a5c79629c3a20
 ![Scheme_SOWA_FC](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/da704378-ec41-419f-8680-25431ffe545d)
 
+# Sponsors
+I would like to express my sincere gratitude to the OSHWlab Stars 
+program for their significant assistance in funding this project as well as to JLCPCB for providing it`s manufacturing power facilities.
 
+[<img src="https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/6e54bb73-c080-4cfe-913c-1aecc6eb128a" width="200" height="200">](https://oshwlab.com/)
+[<img src="https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/2e864890-0340-4eec-bb4f-db5ebcd4fb66" width="450" height="200">](https://jlcpcb.com/)
 
 # My contacts
+
 
 If you would like to contact me for any reason, feel free to write me either via E-Mail at poplavskiyb@gmail.com or via Telegram to @Poplavskyib (https://t.me/poplavskyib)
 
