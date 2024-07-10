@@ -1,6 +1,8 @@
 # SOWA_FC
 The main goal of this project is to create a free open-source flight controller you can use for your personal needs.
-Current status: everything works fine, no problems found.
+
+Current status: everything works fine, no problems found!
+![Preview](https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/16d51ae7-4e67-41d7-b5ab-8c3189c128e5)
 
 Features:
 - STM32F405 microcontroller
@@ -37,20 +39,24 @@ At this moment, it is only available to flash the software to the board as an un
 5) Once the firmware flashed successfully, press the "Connect" button and go to the "CLI" tab
 6) Press "Load from file" button and select .config file
 7) Load the commands to the CLI and reconnect the FC
+   
+[![Software flashing](http://img.youtube.com/vi/9PM7GFr9xXY/0.jpg)](http://www.youtube.com/watch?v=9PM7GFr9xXY)
 
 # Schematics
 This board is designed in the EasyEDA PCB creating tool. Here is the link where you can find all the schemas and PCB designs: https://easyeda.com/editor#project_id=f8ffbb6a306b4466b63a5c79629c3a20
 ![Scheme_SOWA_FC](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/da704378-ec41-419f-8680-25431ffe545d)
 
+
 # PCB purchase
 Starting from June 2024, you have a great opportunity of purchasing the first version of SOWA F4 flight controller for 34,90$ (1400 UAH). The PCB is produced by JLCPCB in China and assembled in Ukraine. Delivery is carried out from Ukraine by courier service of Nova Post within its borders, as well as in the European Union and the United States.
 *All profits will be used to improve this project and to develop new ones.
+![PCB_final](https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/226cc6db-baa1-4e85-9067-e9664e28ebe2)
 
 # My contacts
 For any questions or suggestions feel free to write me either by E-Mail poplavskiyb@gmail.com or via Telegram at @Poplavskyib (https://t.me/poplavskyib)
 
 If you want to support the author materially and contribute to development of the project, you are welcome to do that:
-IBAN:  UA9632 2001 0000 0262 0631 5817 152    Card nuber:  4441 1144 3144 0203
+IBAN:  UA9632 2001 0000 0262 0631 5817 152    Card number:  4441 1144 3144 0203
 
 
 # Sponsors
