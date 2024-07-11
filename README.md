@@ -1,5 +1,5 @@
 # SOWA_FC
-The main goal of this project is to create a free open-source flight controller you can use for your personal needs.
+The main goal of this project is to create an open-source flight controller you can use for your personal needs.
 
 Current status: everything works fine, no problems found!
 ![Preview](https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/16d51ae7-4e67-41d7-b5ab-8c3189c128e5)
