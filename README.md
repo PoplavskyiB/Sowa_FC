@@ -43,7 +43,7 @@ At this moment, it is only available to flash the software to the board as an un
 [![Software flashing](http://img.youtube.com/vi/9PM7GFr9xXY/0.jpg)](http://www.youtube.com/watch?v=9PM7GFr9xXY)
 
 # Schematics
-This board is designed in the EasyEDA PCB creating tool. Here is the link where you can find all the schemas and PCB designs: https://easyeda.com/editor#project_id=f8ffbb6a306b4466b63a5c79629c3a20
+This board is designed in the EasyEDA PCB creating tool. Here is the link where you can find all the schemas: https://oshwlab.com/poplavskyib/SOWA_F4
 ![Scheme_SOWA_FC](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/da704378-ec41-419f-8680-25431ffe545d)
 
 
