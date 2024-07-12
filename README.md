@@ -52,6 +52,12 @@ Starting from June 2024, you have a great opportunity of purchasing the first ve
 *All profits will be used to improve this project and to develop new ones.
 ![PCB_final](https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/226cc6db-baa1-4e85-9067-e9664e28ebe2)
 
+The board comes with a set of dampfers (4 pcs)
+
+<img src="https://github.com/user-attachments/assets/02c72859-bcfd-4577-8acb-458b7693caff" width="500">
+
+
+
 # My contacts
 For any questions or suggestions feel free to write me either by E-Mail poplavskiyb@gmail.com or via Telegram at @Poplavskyib (https://t.me/poplavskyib)
 
