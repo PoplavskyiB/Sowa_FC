@@ -1,7 +1,7 @@
 # SOWA_FC
 An open-source STM32 based flight controller SOWA F4
 
-Current status: everything works fine, no problems found!
+Current status: everything works fine, no problems found.
 ![Preview](https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/16d51ae7-4e67-41d7-b5ab-8c3189c128e5)
 
 Features:
@@ -10,12 +10,13 @@ Features:
 - Blackbox (16Mb)
 - OSD
 - 3-8S voltage
-- Powerful 3.5A DC converters
-- 3.3V / 5V / 10V rails
+- Powerful 3.5A DC converters allow you the usage of almost every high-consumption peripherals
+- 3.3V (500mA) / 5V (3.5A) / 10V (3.5A) rails
 - SCL and SDA pins for GPS
 - 6 UARTs
 - 8 motor/servo outputs
 - RX4 inverter (for SBUS)
+- Voltage & current sensor
 - SWD and SWC pins for direkt programming via bootloader (ex. ST-Link)
 
 Size: 40/40/1,6 mm
@@ -60,9 +61,6 @@ The board comes with a set of dampfers (4 pcs)
 
 # My contacts
 For any questions or suggestions feel free to write me either by E-Mail poplavskiyb@gmail.com or via Telegram at @Poplavskyib (https://t.me/poplavskyib)
-
-If you want to support the author materially and contribute to development of the project, you are welcome to do that:
-IBAN:  UA9632 2001 0000 0262 0631 5817 152    Card number:  4441 1144 3144 0203
 
 
 # Sponsors
