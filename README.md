@@ -49,7 +49,7 @@ This board is designed in the EasyEDA PCB creating tool. Here is the link where 
 
 
 # PCB purchase
-Starting from June 2024, you have a great opportunity of purchasing the first version of SOWA F4 flight controller. The PCB is produced by JLCPCB in China and assembled in Ukraine. Delivery is carried out from Ukraine by courier service of Nova Post or Ukrposhta within its borders, as well as in the European Union and the United States. Please contact me if you want to buy the board.
+Starting from June 2024, you have a great opportunity of purchasing the first version of SOWA F4 flight controller. The PCB is manufactured in Ukraine. Delivery is carried out from Ukraine by courier service of Nova Post or Ukrposhta within its borders, as well as in the European Union and the United States. Please contact me if you want to buy the board.
 *All profits will be used to improve this project and to develop new ones.
 ![PCB_final](https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/226cc6db-baa1-4e85-9067-e9664e28ebe2)
 
@@ -65,7 +65,6 @@ For any questions or suggestions feel free to write me either by E-Mail poplavsk
 
 # Sponsors
 I would like to express my sincere gratitude to the OSHWlab Stars 
-program for their significant assistance in funding this project as well as to JLCPCB for providing it`s manufacturing power facilities.
+program for their significant assistance in funding this project.
 
 [<img src="https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/6e54bb73-c080-4cfe-913c-1aecc6eb128a" width="200" height="200">](https://oshwlab.com/)
-[<img src="https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/2e864890-0340-4eec-bb4f-db5ebcd4fb66" width="450" height="200">](https://jlcpcb.com/)
