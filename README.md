@@ -1,7 +1,13 @@
 # SOWA_FC
 The main goal of this project is to create an open-source STM32 based flight controller SOWA F4
 
-Current status: everything works fine, no problems found.
+29.09.2024 --> ! Important update !
+I have figured out that OSD doesn`t work correctly. 
+Due to the lack of time nowadays, I will try to solve the problem as soon as I have a chance.
+If somebody has of possibility of helping me to find a problem - I will be really gratefull.
+In that case please contact me.
+Thanks.
+
 ![Preview](https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/16d51ae7-4e67-41d7-b5ab-8c3189c128e5)
 
 Features:
