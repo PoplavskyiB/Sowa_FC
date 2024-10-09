@@ -54,12 +54,6 @@ This board is designed in the EasyEDA PCB creating tool. Here is the link where 
 ![Scheme_SOWA_FC](https://github.com/PoplavskyiB/SOWA_FC/assets/167243322/da704378-ec41-419f-8680-25431ffe545d)
 
 
-# PCB purchase
-Starting from June 2024, you have a great opportunity of purchasing the first version of SOWA F4 flight controller. The PCB is manufactured in Ukraine. Delivery is carried out from Ukraine by courier service of Nova Post or Ukrposhta within its borders, as well as in the European Union and the United States. Please contact me if you want to buy the board to request the exact price.
-*All profits will be used to improve this project and to develop new ones.
-![PCB_final](https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/226cc6db-baa1-4e85-9067-e9664e28ebe2)
-
-The board comes with a set of dampfers (4 pcs)
 
 <img src="https://github.com/user-attachments/assets/02c72859-bcfd-4577-8acb-458b7693caff" width="500">
 
