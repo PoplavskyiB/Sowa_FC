@@ -4,11 +4,15 @@ The main goal of this project is to create an open-source STM32 based flight con
 29.09.2024 --> ! Important update !
 I have figured out that OSD doesn`t work correctly. 
 Due to the lack of time nowadays, I will try to solve the problem as soon as I have a chance.
-If somebody has of possibility of helping me to find a problem - I will be really gratefull.
-In that case please contact me.
-Thanks.
 
-![Preview](https://github.com/PoplavskyiB/Sowa_FC/assets/167243322/16d51ae7-4e67-41d7-b5ab-8c3189c128e5)
+13.12.2024 --> About the OSD: When I connect a camera I receive the following video output (see the photo).
+<img src="https://image.easyeda.com/pullimage/AZJdPF9Y5d6oyQthkgKSyf0N8rysJnWib8dXgpds.jpeg" width="400">
+
+I tried to change OSD settings and fonts in Betaflight but that didn't help. Last time I tried to replace the AT7456E chip on my board from an old Omnibus F3 FC and then everything worked perfectly. After that I placed other chips from LCSC to my board and then it didn't work again. That`s why I only suspect that the chips should be somehow pre-programmed.
+If somebody knows or has any ideas of how to fix this problem I will be very gratefull if you contact me. Thanks.
+
+
+
 
 Features:
 - STM32F405 microcontroller
